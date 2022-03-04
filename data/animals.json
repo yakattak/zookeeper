@@ -225,6 +225,24 @@
         "hungry"
       ],
       "id": "23"
+    },
+    {
+      "name": "dsASSDA",
+      "species": "saddsA",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "24"
+    },
+    {
+      "name": "asdf",
+      "species": "asdf",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "25"
     }
   ]
 }
