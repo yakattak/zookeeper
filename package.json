@@ -1,17 +1,25 @@
 {
-  "name": "main",
+  "name": "zookeeper",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jest",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakattak/zookeeper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakattak/zookeeper/issues"
+  },
+  "homepage": "https://github.com/yakattak/zookeeper#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "jest": "^25.1.0"
